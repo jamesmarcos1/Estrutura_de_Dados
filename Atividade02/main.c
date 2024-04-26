@@ -67,7 +67,7 @@ int main() {
     }
 
     // Exibe a área total do polígono
-    printf("A AREA DO POLIGONO E %.2f\n", areaTotal);
+    printf("A área do polígono é %.2f\n", areaTotal);
 
     // Libera a memória
     free(vertices);
